@@ -6,8 +6,11 @@ This project showcases a portfolio website built using Bootstrap, HTML, CSS, and
 
 ## Screenshots
 
-### Navbar and Hero Section
+### Navbar 
 ![Navbar and Hero Section](images/navbar.png)
+
+### Hero Section
+![Hero Section](images/Hero_section.png)
 
 ### Projects Showcase
 ![Projects Showcase](images/projects.png)
