@@ -7,3 +7,22 @@
 
 }
 
+/* Estilos para os links no footer */
+.footer-link {
+    color: #fff; 
+    text-decoration: none; 
+    transition: color 0.3s ease; 
+}
+
+.footer-link:hover {
+    color: #f2f2f2; 
+}
+
+/* Estilos para os botões no footer */
+.footer-btn {
+    transition: box-shadow 0.3s ease; 
+}
+
+.footer-btn:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
